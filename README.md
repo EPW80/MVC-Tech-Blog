@@ -54,8 +54,8 @@ SOFTWARE.
 
 Live Deployed Application: [View Application](https://hidden-mesa-13946.herokuapp.com/ "Live Deploy")      
 
-![Screenshot](images\techblog.png "Proof of Application")
-![Screenshot](images\techblog2.png "Proof of Application")     
+![Screenshot](images/techblog.png "Proof of Application")
+![Screenshot](images/techblog2.png "Proof of Application")     
 
 
 
