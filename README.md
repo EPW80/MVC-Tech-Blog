@@ -52,9 +52,10 @@ SOFTWARE.
 
 ## Documentation
 
-Live Deployed Application: [View Application](https://uabc-mvc-tech-blog.herokuapp.com/ "Live Deploy")      
+Live Deployed Application: [View Application](https://hidden-mesa-13946.herokuapp.com/ "Live Deploy")      
 
-![Screenshot](doc/proof.png?raw=true "Proof of Application")      
+![Screenshot](images\techblog.png "Proof of Application")
+![Screenshot](images\techblog2.png "Proof of Application")     
 
 
 
