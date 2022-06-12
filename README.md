@@ -26,7 +26,7 @@ Start Server;
 
 ## Credits
 
-University of Arizona Coding Bootcamp Week 14 Module 14: Object-Relational Mapping.
+University of California Coding Bootcamp Week 14 Module 14: Object-Relational Mapping.
 
 ## License
 
