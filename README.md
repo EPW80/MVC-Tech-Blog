@@ -17,13 +17,13 @@ Start Server;
 
 ## Deployment
 
-[View Application](https://hidden-mesa-13946.herokuapp.com)
+[heroku app](https://hidden-mesa-13946.herokuapp.com)
 
 ## Demo
 
-[](./images/demo.gif)
+![](./images/demo.gif)
 
 ## Screenshot
 
-[](./images/techblog.png)
-[](./images/techblog2.png)
+![](./images/techblog.png)
+![](./images/techblog2.png)
